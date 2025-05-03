@@ -2,4 +2,4 @@
 This is my first Repository
 <br>
 <hr>
-Author name- kautilya shukla
+Author name- kautilya pandit
